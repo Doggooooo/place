@@ -1,0 +1,1 @@
+place -root web/root -load place.png -port :8080
